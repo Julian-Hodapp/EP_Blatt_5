@@ -10,7 +10,6 @@ public class H3_main {
 		int i = 0;
 		
 		while (i < einheiten[0].length) {
-			System.out.println(einheiten[0][i]);
 			einheiten[1][i] = input / einheiten[0][i];
 			input = input % einheiten[0][i];
 			i++;
