@@ -1,6 +1,8 @@
 package h3;
 
-import java.util.Arrays;
+//import java.util.Arrays;
+
+//Achtung bei git commits und beim pushen den import und das print statement löschen
 
 public class H3_main {
 	public static void main(String[] args) {
@@ -15,7 +17,7 @@ public class H3_main {
 			i++;
 		}
 		
-		System.out.println(Arrays.toString(einheiten[1]));
+//		System.out.println(Arrays.toString(einheiten[1]));
 	
 	}
 }
